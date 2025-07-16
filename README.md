@@ -31,15 +31,6 @@ I'm a passionate undergrad student currently exploring the world of development 
 
 ---
 
-### 🧑‍💻 A Developer in the Making
-
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/man-browsing-internet-laptop_74855-5836.jpg" width="300" alt="Boy working on computer">
-</p>
-
-
----
-
 ### 📫 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shivanshu-prasad-pandey-24659133a)
 - 🐱 [GitHub](https://github.com/shivanshu-create)
